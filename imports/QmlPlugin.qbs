@@ -37,12 +37,12 @@ DynamicLibrary
         fileTags: ["metadata"]
     }
 
-    Group
+    /*Group
     {
         qbs.install: true
         qbs.installDir: pluginPath
         fileTagsFilter: product.type
-    }
+    }*/
 
     Rule
     {
